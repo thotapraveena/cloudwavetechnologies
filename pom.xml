@@ -1,15 +1,18 @@
 <project xml="http://maven.apache.org/POM/4.0." xmlns="http://www.w3.org/2001/xmlschema.instance"
 <modelversion>4.0.0</modelversion>
-<groupid>com.example<groupid>
-artifactid>my-app</artifactid>
-<version>1.0.0</version>
+<groupid>com.github<groupid>
+artifactid>egit demo</artifactid>
+<version>1.0.0SNAPSHOT</version>
 <packaging>jar</packaging>
+<name>egitdemo<name>
+<url>http://maven.apache.org<url>
 <dependencies>
 <dependency>
-<groupid>org.spring framework<groupid>
-<artifact id>spring.core</artifactid>
+<groupid>unit<groupid>
+<artifact id>junit</artifactid>
 <version>5.3.9</version>
+<scope>test</scope> 
 </dependency>
 </dependencies>
-
 </project>
+
