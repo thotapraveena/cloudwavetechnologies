@@ -1,0 +1,14 @@
+<project>
+<modelversion>4.0.0</modelversion>
+<groupid>com.example<groupid>
+artifactid>my-app</artifactid>
+<version>1.0.0</version>
+<packaging>jar</packaging>
+<dependencies>
+<dependency>
+<groupid>org.spring framework<groupid>
+<artifact id>spring.core</artifactid>
+<version>5.3.9</version>
+</dependency>
+</dependencies>
+</project>
