@@ -1,4 +1,4 @@
-<project>
+<project xml="http://maven.apache.org/POM/4.0." xmlns="http://www.w3.org/2001/xmlschema.instance"
 <modelversion>4.0.0</modelversion>
 <groupid>com.example<groupid>
 artifactid>my-app</artifactid>
@@ -11,4 +11,5 @@ artifactid>my-app</artifactid>
 <version>5.3.9</version>
 </dependency>
 </dependencies>
+
 </project>
